@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d818351e-6160-492f-92b4-3a98acdcbe4d": {
+      "ProjectGuid": "d818351e-6160-492f-92b4-3a98acdcbe4d",
+      "DisplayName": "Stacks",
+      "ColorIndex": 0
+    },
+    "c3a474f5-1760-4144-ba96-1cbaf05cbfd7": {
+      "ProjectGuid": "c3a474f5-1760-4144-ba96-1cbaf05cbfd7",
+      "DisplayName": "Data_Structures",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
