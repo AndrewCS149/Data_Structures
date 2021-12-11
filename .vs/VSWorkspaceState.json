@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BinarySearchTrees",
+    "\\BinarySearchTrees\\BinarySearchTrees"
   ],
-  "SelectedNode": "\\BinarySearchTrees.sln",
+  "SelectedNode": "\\BinarySearchTrees\\BinarySearchTrees\\BinarySearchTree.cs",
   "PreviewInSolutionExplorer": false
 }
